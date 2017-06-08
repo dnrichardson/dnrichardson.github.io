@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Dale Richardson</title>
+    <title>r on Hugo Future Imperfect</title>
     <link>/tags/r/index.xml</link>
-    <description>Recent content in R on Dale Richardson</description>
+    <description>Recent content in r on Hugo Future Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2017 Dale Richardson</copyright>
+    <language>en-us</language>
     <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
