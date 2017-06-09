@@ -34,8 +34,6 @@
 &lt;h2 id=&#34;curious&#34;&gt;Curious&lt;/h2&gt;
 
 &lt;p&gt;This isn&amp;rsquo;t working. Why not?!&lt;/p&gt;
-
-&lt;p&gt;{{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}&lt;/p&gt;
 </description>
     </item>
     
