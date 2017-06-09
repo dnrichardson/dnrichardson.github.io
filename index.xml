@@ -6,36 +6,8 @@
     <description>Recent content on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>test</title>
-      <link>/post/test/</link>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>
-
-&lt;h3 id=&#34;hello-this-is-a-heading&#34;&gt;Hello, this is a heading.&lt;/h3&gt;
-
-&lt;p&gt;This is some text.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>why is this not working</title>
-      <link>/post/why-is-this-not-working/</link>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/why-is-this-not-working/</guid>
-      <description>
-
-&lt;h2 id=&#34;curious&#34;&gt;Curious&lt;/h2&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t working. Why not?!&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>A small project example : add yours !</title>
