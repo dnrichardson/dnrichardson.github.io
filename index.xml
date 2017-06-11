@@ -21,35 +21,21 @@
 
 &lt;p&gt;I&amp;rsquo;m a postdoc in the &lt;a href=&#34;http://www.igc.gulbenkian.pt/pduque&#34;&gt;Plant Molecular Biology Laboratory&lt;/a&gt; at the &lt;a href=&#34;http://www.igc.gulbenkian.pt&#34;&gt;Instituto Gulbenkian de Ciência (IGC)&lt;/a&gt;, a research institution located just outside of Lisbon, Portugal. I primarily rely on &lt;code&gt;R&lt;/code&gt; and a suite of bioinformatics tools to analyze large-scale genomic changes in response to abiotic stress in the model plant organism, &lt;a href=&#34;https://en.wikipedia.org/wiki/Arabidopsis_thaliana&#34;&gt;&lt;em&gt;Arabidopsis thaliana&lt;/em&gt;&lt;/a&gt;, commonly known as the &amp;ldquo;thale cress&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;For the past three years, I have been working primarily to understand how a particular gene is involved in regulating the seed germination process when seeds are grown in a high-salt environment. As high salinity soils are major problem for plant growth worldwide, this research may help understand important aspects of gene-level adaptation to salt stress and perhaps even faciliate tolerance to salt stress in agronomically important plants.&lt;/p&gt;
+&lt;p&gt;For the past three years, I have been working primarily to understand how a particular gene is involved in regulating the seed germination process when seeds are grown in a high-salt environment. As high salinity soils are &lt;a href=&#34;https://en.wikipedia.org/wiki/Soil_salinity&#34;&gt;major problem for plant growth worldwide&lt;/a&gt;, this research may help understand important aspects of gene-level adaptation to salt stress and perhaps even faciliate tolerance to salt stress in agronomically important plants.&lt;/p&gt;
 
 &lt;h2 id=&#34;future-goals&#34;&gt;Future goals&lt;/h2&gt;
 
-&lt;p&gt;Since late 2016, I have cultivated a passion for data analytics and data science and have been working hard to learn as much as I can&lt;/p&gt;
+&lt;p&gt;Although I hold a special place in my heart for research science, it has become abundantly clear to me that I need to move into a new career. I believe it is important to be engaged in something that one truly loves doing, where motivation arises without force and passion drives you effortlessly.&lt;/p&gt;
 
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;p&gt;In late 2016, I learned about the fields of data anayltics and data science and quickly became intrigued and then impassioned. I started to listen to all sorts of data science podcasts, sign up for online courses, browse bootcamp options and just basically immerse myself in the subject as much as possible.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I quickly realized that this was not going to be an overnight endeavor but instead was going to be an extended, uphill journey fraught with challenges (internal and external).&lt;/p&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, it is only when facing our challenges that we truly grow.&lt;/p&gt;
 
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;And so I find myself here, creating this space as a chronicle of my journey from research science to data science. As of now, my goal is to abdicate my role as a postdoc and pivot to a role as a data analyst/scientist in early 2018, or sooner.&lt;/p&gt;
 
-&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;
-&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt; or &lt;a href=&#34;mailto: dalesan@gmail.com&#34;&gt;write me an email&lt;/a&gt;!.&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by and if you have questions or suggestions, feel free to &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt; or &lt;a href=&#34;mailto: dalesan@gmail.com&#34;&gt;write me an email&lt;/a&gt;!.&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
