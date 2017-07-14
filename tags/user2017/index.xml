@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r on Dale Richardson</title>
-    <link>/tags/r/index.xml</link>
-    <description>Recent content in r on Dale Richardson</description>
+    <title>user2017 on Dale Richardson</title>
+    <link>/tags/user2017/index.xml</link>
+    <description>Recent content in user2017 on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/user2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I Learned From My First R Conference (useR!2017)</title>

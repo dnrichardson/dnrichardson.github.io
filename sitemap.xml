@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/blog/what-i-learned-from-my-first-r-conference-user-2017/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2017-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -22,11 +27,6 @@
   </url>
   
   <url>
-    <loc>/blog/example-of-an-article/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/projects/projects/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
@@ -37,28 +37,12 @@
   </url>
   
   <url>
-    <loc>/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/blog/2017-07-13-what-i-learned-from-my-first-r-conference-user-2017/</loc>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +53,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,20 +83,8 @@
   </url>
   
   <url>
-    <loc>/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/categories/personal/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,6 +97,12 @@
   <url>
     <loc>/tags/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,6 +121,12 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/user2017/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
