@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dale Richardson</title>
-    <link>/index.xml</link>
+    <link>https://dnrichardson.github.io/index.xml</link>
     <description>Recent content on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dnrichardson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my-first-user</title>
+      <link>https://dnrichardson.github.io/blog/my-first-user/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnrichardson.github.io/blog/my-first-user/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What I Learned From My First R Conference (useR!2017)</title>
-      <link>/blog/what-i-learned-from-my-first-r-conference-user-2017/</link>
+      <link>https://dnrichardson.github.io/blog/what-i-learned-from-my-first-r-conference-user-2017/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/what-i-learned-from-my-first-r-conference-user-2017/</guid>
+      <guid>https://dnrichardson.github.io/blog/what-i-learned-from-my-first-r-conference-user-2017/</guid>
       <description>
 
 &lt;h2 id=&#34;what-i-learned-from-my-first-user-conference&#34;&gt;What I learned from my first useR! conference&lt;/h2&gt;
@@ -75,7 +84,7 @@
 
 &lt;h3 id=&#34;final-remarks&#34;&gt;Final remarks&lt;/h3&gt;
 
-&lt;p&gt;I thoroughly enjoyed my first useR event. What made the event so special for me was not just the quality of the content, but the quality of the community. There is a real sense of camaraderie shared amongst useRs. I look forward to the next event, &lt;a href=&#34;/registration/&#34;&gt;useR!2018 in Brisbane, Australia&lt;/a&gt;. I am not sure if I will be able to attend, but I&amp;rsquo;ve always wanted to visit Australia and this might be the purrfect reason to go!&lt;/p&gt;
+&lt;p&gt;I thoroughly enjoyed my first useR event. What made the event so special for me was not just the quality of the content, but the quality of the community. There is a real sense of camaraderie shared amongst useRs. I look forward to the next event, &lt;a href=&#34;https://dnrichardson.github.io/registration/&#34;&gt;useR!2018 in Brisbane, Australia&lt;/a&gt;. I am not sure if I will be able to attend, but I&amp;rsquo;ve always wanted to visit Australia and this might be the purrfect reason to go!&lt;/p&gt;
 
 &lt;p&gt;If you find yourself reading this and are unsure if going to a conference like useR! is right for you, I highly recommend taking the plunge and just going for it! You&amp;rsquo;ll meet wonderful people, learn tons of stuff and have a great time!&lt;/p&gt;
 </description>
@@ -83,10 +92,10 @@
     
     <item>
       <title>About Dale</title>
-      <link>/about/</link>
+      <link>https://dnrichardson.github.io/about/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://dnrichardson.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;currently&#34;&gt;Currently&lt;/h2&gt;
@@ -117,10 +126,10 @@
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>/cv/</link>
+      <link>https://dnrichardson.github.io/cv/</link>
       <pubDate>Fri, 09 Jun 2017 14:31:31 +0100</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>https://dnrichardson.github.io/cv/</guid>
       <description>
 
 &lt;h2 id=&#34;dale-richardson-phd&#34;&gt;Dale Richardson, PhD&lt;/h2&gt;
@@ -324,10 +333,10 @@
     
     <item>
       <title>A small project example : add yours !</title>
-      <link>/projects/small-project/</link>
+      <link>https://dnrichardson.github.io/projects/small-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/small-project/</guid>
+      <guid>https://dnrichardson.github.io/projects/small-project/</guid>
       <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -340,10 +349,10 @@
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>/post/2016-12-30-hello-markdown/</link>
+      <link>https://dnrichardson.github.io/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://dnrichardson.github.io/post/2016-12-30-hello-markdown/</guid>
       <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -379,10 +388,10 @@
     
     <item>
       <title>Projects</title>
-      <link>/projects/projects/</link>
+      <link>https://dnrichardson.github.io/projects/projects/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>/projects/projects/</guid>
+      <guid>https://dnrichardson.github.io/projects/projects/</guid>
       <description>&lt;p&gt;&lt;em&gt;In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.&lt;/p&gt;
@@ -391,10 +400,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://dnrichardson.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://dnrichardson.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -428,7 +437,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://dnrichardson.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -439,10 +448,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Home</title>
-      <link>/home/</link>
+      <link>https://dnrichardson.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/</guid>
+      <guid>https://dnrichardson.github.io/home/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is the home page. It will display the blog section if there is one, and a text before.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Hey ! Welcome to the &lt;strong&gt;Cocoa Enhanced theme&lt;/strong&gt;. Here are some articles :&lt;/p&gt;
@@ -451,10 +460,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>https://dnrichardson.github.io/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/license/</guid>
+      <guid>https://dnrichardson.github.io/license/</guid>
       <description>&lt;p&gt;You can use this page to put a license on the contents of your blog, like so:&lt;/p&gt;
 
 &lt;blockquote&gt;

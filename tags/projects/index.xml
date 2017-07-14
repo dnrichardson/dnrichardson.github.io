@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Dale Richardson</title>
-    <link>/tags/projects/index.xml</link>
+    <link>https://dnrichardson.github.io/tags/projects/index.xml</link>
     <description>Recent content in projects on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dnrichardson.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A small project example : add yours !</title>
-      <link>/projects/small-project/</link>
+      <link>https://dnrichardson.github.io/projects/small-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/small-project/</guid>
+      <guid>https://dnrichardson.github.io/projects/small-project/</guid>
       <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
 
 &lt;blockquote&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dale Richardson</title>
-    <link>/projects/index.xml</link>
+    <link>https://dnrichardson.github.io/projects/index.xml</link>
     <description>Recent content in Projects on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dnrichardson.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A small project example : add yours !</title>
-      <link>/projects/small-project/</link>
+      <link>https://dnrichardson.github.io/projects/small-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/projects/small-project/</guid>
+      <guid>https://dnrichardson.github.io/projects/small-project/</guid>
       <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Projects</title>
-      <link>/projects/projects/</link>
+      <link>https://dnrichardson.github.io/projects/projects/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>/projects/projects/</guid>
+      <guid>https://dnrichardson.github.io/projects/projects/</guid>
       <description>&lt;p&gt;&lt;em&gt;In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.&lt;/p&gt;
