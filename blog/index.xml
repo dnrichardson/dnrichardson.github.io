@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Dale Richardson</title>
-    <link>https://dnrichardson.github.io/blog/index.xml</link>
+    <link>/blog/index.xml</link>
     <description>Recent content in Blogs on Dale Richardson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dnrichardson.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I Learned From My First R Conference (useR!2017)</title>
-      <link>https://dnrichardson.github.io/blog/what-i-learned-from-my-first-r-conference-user-2017/</link>
+      <link>/blog/what-i-learned-from-my-first-r-conference-user-2017/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dnrichardson.github.io/blog/what-i-learned-from-my-first-r-conference-user-2017/</guid>
+      <guid>/blog/what-i-learned-from-my-first-r-conference-user-2017/</guid>
       <description>
 
 &lt;h2 id=&#34;what-i-learned-from-my-first-user-conference&#34;&gt;What I learned from my first useR! conference&lt;/h2&gt;
 
 &lt;p&gt;It has been exactly one week since the ending of the &lt;a href=&#34;http://www.user2017.brussels&#34;&gt;useR!2017 conference&lt;/a&gt; in Brussels, Belgium. I have to say that I am so happy that I decided to go to the conference. To put it succintly, it was the best conference I have ever attended.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;IMG_1891.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;blog/IMG_1891.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At first, I was a bit hesitant to even register for the conference. I thought to myself, &amp;ldquo;Man, you haven&amp;rsquo;t been using R for that long. You&amp;rsquo;re going to stick out like a sore thumb. Everyone knows more than you!&amp;rdquo; This thought was quickly followed by several others all along the lines of convincing myself that I&amp;rsquo;m an &lt;a href=&#34;https://en.wikipedia.org/wiki/Impostor_syndrome&#34;&gt;imposter&lt;/a&gt;. Thankfully, I got over these self-defeating sentiments and registered for the conference, paying out of my own pocket. This conference was too big of an opportunity to miss and boy am I glad I went.&lt;/p&gt;
 
@@ -41,11 +41,11 @@
 
 &lt;p&gt;Another big highlight was getting to meet and chat with David Robinson, chief data scientist at Stack Overflow. Not only did he give a great presentation, he&amp;rsquo;s extremely gregarious and super open to giving advice and tips.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;IMG_1881.png&#34; alt=&#34;David Robinson, myself and Thanos Gatos at the conference dinner.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;blog/IMG_1881.png&#34; alt=&#34;David Robinson, myself and Thanos Gatos at the conference dinner.&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We had some nice conversations about life in academia, the usefulness of data science bootcamps, work life balance and how to best manage your time to get the most out of it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;tweet.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;blog/tweet.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the reasons I was inspired to go to this conference was that I recently took the Duke University Coursera specialization, &lt;a href=&#34;https://www.coursera.org/specializations/statistics&#34;&gt;&amp;ldquo;Statistics with R&amp;rdquo;&lt;/a&gt; and was just so impressed by the material and had a great experience in the course. When I saw that one of the lead instructors for this course, Dr. Mine Çetinkaya-Rundel was going to be a keynote speaker, I knew I had to register just for the off chance that I could meet her in person and thank her for doing such a wonderful job at teaching. Incidentally, I think she gave one of the best talks of the entire conference, which you can &lt;a href=&#34;https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/KEYNOTE-Teaching-data-science-to-new-useRs&#34;&gt;watch here&lt;/a&gt;. Anyway, long story short - yes, I got to meet her and say thank you in person on the last day of the conference after the closing ceremony, which was super cool.&lt;/p&gt;
 
@@ -71,11 +71,11 @@
 
 &lt;p&gt;I guess I was totally out of the loop, but prior to attending useR, I had no idea how obsessed people are with collecting hex stickers. Well, I have to say that I totally love it and jumped on the bandwagon. I plastered a few stickers on my machine in honor of the tidyverse and to show my support for online education platforms like &lt;a href=&#34;www.datacamp.com&#34;&gt;Datacamp&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;hex-stickers.png&#34; alt=&#34;Cool stickers from Rstudio&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;blog/hex-stickers.png&#34; alt=&#34;Cool stickers from Rstudio&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;final-remarks&#34;&gt;Final remarks&lt;/h3&gt;
 
-&lt;p&gt;I thoroughly enjoyed my first useR event. What made the event so special for me was not just the quality of the content, but the quality of the community. There is a real sense of camaraderie shared amongst useRs. I look forward to the next event, &lt;a href=&#34;https://dnrichardson.github.io/registration/&#34;&gt;useR!2018 in Brisbane, Australia&lt;/a&gt;. I am not sure if I will be able to attend, but I&amp;rsquo;ve always wanted to visit Australia and this might be the purrfect reason to go!&lt;/p&gt;
+&lt;p&gt;I thoroughly enjoyed my first useR event. What made the event so special for me was not just the quality of the content, but the quality of the community. There is a real sense of camaraderie shared amongst useRs. I look forward to the next event, &lt;a href=&#34;/registration/&#34;&gt;useR!2018 in Brisbane, Australia&lt;/a&gt;. I am not sure if I will be able to attend, but I&amp;rsquo;ve always wanted to visit Australia and this might be the purrfect reason to go!&lt;/p&gt;
 
 &lt;p&gt;If you find yourself reading this and are unsure if going to a conference like useR! is right for you, I highly recommend taking the plunge and just going for it! You&amp;rsquo;ll meet wonderful people, learn tons of stuff and have a great time!&lt;/p&gt;
 </description>

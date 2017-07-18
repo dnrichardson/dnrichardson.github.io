@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dnrichardson.github.io/blog/what-i-learned-from-my-first-r-conference-user-2017/</loc>
+    <loc>/blog/what-i-learned-from-my-first-r-conference-user-2017/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/cv/</loc>
+    <loc>/cv/</loc>
     <lastmod>2017-06-09T14:31:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/projects/small-project/</loc>
+    <loc>/projects/small-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/projects/projects/</loc>
+    <loc>/projects/projects/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/home/</loc>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/license/</loc>
+    <loc>/license/</loc>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/categories/personal/</loc>
+    <loc>/categories/personal/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/tags/projects/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dnrichardson.github.io/tags/user2017/</loc>
+    <loc>/tags/user2017/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
